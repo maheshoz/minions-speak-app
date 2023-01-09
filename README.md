@@ -5,9 +5,9 @@ This app is a translation app which is made with fun translations API as part of
   * CSS3
   * Vanilla JS
 ## Hosted on
-Netlify
+Netlify 
 ## Website Link
-
+https://minions-speaks-webapp.netlify.app/
 
 ### Home Page
-<img width="862" alt="image" src="g">
+<img width="862" alt="image" src="minions-speak.PNG">
